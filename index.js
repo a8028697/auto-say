@@ -1,7 +1,7 @@
 (function () {
   "use strict";
 
-  const DEFAULT_SUFFIX = "喵";
+  const DEFAULT_SUFFIX = "喵～";
 
   const { before } = vendetta.patcher;
   const { findByProps } = vendetta.metro;
